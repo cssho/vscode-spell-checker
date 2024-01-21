@@ -13,8 +13,8 @@
         "declaration": true,
         "declarationMap": true,
         "rootDir": "./src",
-        "strict": true
+        "strict": true,
     },
     "include": ["src"],
-    "references": [{ "path": "../tsconfig.esm.json" }]
+    "references": [{ "path": "../tsconfig.esm.json" }],
 }

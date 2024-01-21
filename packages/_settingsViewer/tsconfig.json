@@ -6,8 +6,8 @@
         "jsx": "react",
         "outDir": "dist",
         "experimentalDecorators": true,
-        "types": ["node"]
+        "types": ["node"],
     },
     "include": ["src/**/*"],
-    "exclude": ["coverage", "node_modules", "dist", "out"]
+    "exclude": ["coverage", "node_modules", "dist", "out"],
 }
